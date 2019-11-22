@@ -1,0 +1,1 @@
+# thinkific-sample-app
